@@ -11,7 +11,6 @@
     <section class="contact">
         <div class="content">
             <h2>Universitas Brawijaya Center</h2>
-            <p>"Universitas Brawijaya Center adalah pusat inovasi dan riset terkemuka yang bertujuan untuk mendukung pengembangan ilmu pengetahuan dan teknologi, serta berkontribusi pada kemajuan masyarakat melalui penelitian berkualitas dan kolaborasi dengan berbagai mitra di tingkat nasional dan internasional."</p>
         </div>
         <div class="container">
             <div class="contactInfo">
