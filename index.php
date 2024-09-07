@@ -57,7 +57,7 @@
                 </form>
                 <?php if (isset($_GET['notif'])) : ?>
                     <?php if ($_GET['notif'] == 'kirimberhasil') : ?>
-                        <div class="alert">Pesan Berhasil Dikirim</div>
+                        <div class="alert">Pesan Berhasil Dikirim!</div>
                     <?php endif ?>
                     <?php if ($_GET['notif'] == 'kirimgagal') : ?>
                         <div class="alert">Pesan Gagal Dikirim</div>
